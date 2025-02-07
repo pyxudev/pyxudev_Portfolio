@@ -1,4 +1,4 @@
-# My Portfolio
+# My Portfolio as a develoepr
 Hi, thank you for checking my protfolio.
 My name is Justin Xu, a full-stack engineer.
 
