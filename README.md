@@ -74,6 +74,8 @@ A Flask API server template
 
 - [Scrapy_template](https://github.com/pyxudev/Scrapy_template)<br>
 A template for Scrapy app for a website has redirection.
+- [Python_CallAPI_template](https://github.com/pyxudev/Python_CallAPI_template)
+A template to call API from Python
 
 - [edi_sample](https://github.com/pyxudev/edi_sample)<br>
 A simple WEB-EDI sample.
