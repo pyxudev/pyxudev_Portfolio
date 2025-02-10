@@ -35,7 +35,7 @@ It's a selenium scraper to scrape comments from bilibili in a headless environme
 Since they shut bilibili API down and changing their encrypt policy frequently.
 
 - [sec_scraper](https://github.com/pyxudev/sec_scraper)<br>
-This a scrapy project to scrape listed company data from SEC](https://www.sec.gov/)<br>.
+This a scrapy project to scrape listed company data from [SEC](https://www.sec.gov/).
 
 ### Automation
 - [holmes](https://github.com/pyxudev/holmesxu)<br>
