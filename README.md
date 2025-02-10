@@ -46,6 +46,9 @@ Still collecting new ideas for more features.
 It's a batch file to automatically create environment for diffuserson Windows.
 It could be outdated since it's using diffusers0.8.0.
 
+- [support-memo-templates](https://github.com/pyxudev/support-memo-templates)
+A support memo template to speed up technical support process
+
 ### Toys
 Those scripts could be useful sometimes.
 - [aws_s3_bucket](https://github.com/pyxudev/aws_s3_bucket)<br>
