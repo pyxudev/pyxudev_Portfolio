@@ -57,8 +57,8 @@ A Python script to get aws s3 bucket.
 - [ban_account](https://github.com/pyxudev/ban_account)<br>
 A Python script to ban inactive account.
 
-- [Yugio](https://github.com/pyxudev/Yugio)<br>
-A simple JS based app to decide who will go first between users face to face.
+- [Yugio](https://github.com/pyxudev/Yugio.github.io)<br>
+A simple HTML/JS based app to decide who will go first between users face to face.
 
 - [react_todo](https://github.com/pyxudev/react_todo)<br>
 It's a simple learning project to build a todo application on React.js.
