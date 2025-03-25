@@ -37,7 +37,7 @@ Since they shut bilibili API down and changing their encrypt policy frequently.
 - [sec_scraper](https://github.com/pyxudev/sec_scraper)<br>
 This a scrapy project to scrape listed company data from [SEC](https://www.sec.gov/).
 
-- [SportsBasketScriper](https://github.com/pyxudev/SportsBasketScriper)
+- [SportsBasketScriper](https://github.com/pyxudev/SportsBasketScriper)<br>
 A urllip-bs4 scraping script to get holding basketball games in Tokyo, Chiba, Saitama.
 The origin website is showing too many ads recently.
 
@@ -73,13 +73,12 @@ A Python code for gaussian filter
 - [statics](https://github.com/pyxudev/statics)<br>
 Some Python code for statics
 
-- [TokyoWeather](https://github.com/pyxudev/TokyoWeather)
+- [TokyoWeather](https://github.com/pyxudev/TokyoWeather)<br>
 A Python script to script weather today for tokyo.
 This api is also used on Yahoo.
 
 ## Templates
 Providing templates to speed up developing start up since we will need to create different framework projects among developing projects.
-
 - [Flask_APIserver_template](https://github.com/pyxudev/Flask_APIserver_template)<br>
 A Flask API server template
 
