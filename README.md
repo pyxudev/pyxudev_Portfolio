@@ -63,6 +63,21 @@ The origin website is showing too many ads recently.
 </details>
 
 <details>
+<summary><b>Apex Codes</b>
+
+---
+</summary>
+
+- [Apex_Opportunity_Count_Contact_Update](https://github.com/pyxudev/Apex_Opportunity_Count_Contact_Update)<br>
+When adding Contacts to a Opportunity record, count how many Contacts been related and insert into a field.<br>
+Including an Apex class and an Apex trigger.
+
+- [Apex_Callout_Tempalte](https://github.com/pyxudev/Apex_Callout_Tempalte)<br>
+Some templates for Http Callout to scrape a website then push to LINE bot.
+---
+</details>
+
+<details>
 <summary><b>Automation</b>
 
 ---
