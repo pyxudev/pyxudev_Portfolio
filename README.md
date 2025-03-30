@@ -2,11 +2,11 @@
 Hi, thank you for checking my protfolio.<br>
 My name is Justin Xu, a full-stack engineer.
 
-## Personal app Projects
+## Personal Projects
 Those projects below are my personal projects help you know me better about my skills or what am I interested in.<br>
 You are welcome to join any of my project or raise an issue or any discussion!
 <details>
-<summary><b>Web app projects</b>
+<summary><b>Web apps</b>
 
 ---
 </summary>
