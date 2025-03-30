@@ -6,6 +6,17 @@ My name is Justin Xu, a full-stack engineer.
 Those projects below are my personal projects help you know me better about my skills or what am I interested in.<br>
 You are welcome to join any of my project or raise an issue or any discussion!
 <details>
+<summary><b>Web app projects</b>
+
+---
+</summary>
+
+- [バスケやろうぜ](https://github.com/pyxudev/basketball_games_in_Tokyo)<br>
+A basketball games search platform, it helps you to search and reserve to join basketball games hold in Tokyo, Chiba, Saitama.
+
+</details>
+
+<details>
 <summary><b>AI projects</b>
 
 ---
