@@ -14,6 +14,15 @@ You are welcome to join any of my project or raise an issue or any discussion!
 - [バスケやろうぜ](https://github.com/pyxudev/basketball_games_in_Tokyo)<br>
 A basketball games search platform, it helps you to search and reserve to join basketball games hold in Tokyo, Chiba, Saitama.
 
+- [先攻はいただいたぜ！](https://github.com/pyxudev/Yugio.github.io)<br>
+A simple HTML/JS based app to decide who will go first between users face to face.
+
+- [Todo](https://github.com/pyxudev/react_todo)<br>
+It's a simple learning project to build a todo application on React.js.
+
+- [Bilibili Comemnt Logger](https://github.com/pyxudev/bilibili_comment_scraper)<br>
+It's a selenium scraper to scrape comments from bilibili in a headless environment.
+Since they shut bilibili API down and changing their encrypt policy frequently.
 </details>
 
 <details>
@@ -59,10 +68,6 @@ It collects when will Minesota Timberwolves are going to have games for this wee
 Its a scraper that can script certain Tweets from Twitter then send the posts to Discord.<br>
 However, I've leave it long time since the Twitter changed its name to 'X' and changed policy of the API.
 It may not work as expected.
-
-- [bilibili_comment_scraper](https://github.com/pyxudev/bilibili_comment_scraper)<br>
-It's a selenium scraper to scrape comments from bilibili in a headless environment.
-Since they shut bilibili API down and changing their encrypt policy frequently.
 
 - [sec_scraper](https://github.com/pyxudev/sec_scraper)<br>
 This a scrapy project to scrape listed company data from [SEC](https://www.sec.gov/).
@@ -119,12 +124,6 @@ A Python script to get aws s3 bucket.
 
 - [ban_account](https://github.com/pyxudev/ban_account)<br>
 A Python script to ban inactive account.
-
-- [Yugio](https://github.com/pyxudev/Yugio.github.io)<br>
-A simple HTML/JS based app to decide who will go first between users face to face.
-
-- [react_todo](https://github.com/pyxudev/react_todo)<br>
-It's a simple learning project to build a todo application on React.js.
 
 - [gaussian_filter](https://github.com/pyxudev/gaussian_filter)<br>
 A Python code for gaussian filter.
