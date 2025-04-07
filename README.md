@@ -11,6 +11,10 @@ You are welcome to join any of my project or raise an issue or any discussion!
 ---
 </summary>
 
+- [アレアレHelper](https://github.com/pyxudev/arearehelper)<br>
+A Web app which can help to recall the word you when you foget the term and get tongue-tied.<br>
+URL: https://arearehelper.vercel.app/
+
 - [バスケやろうぜ](https://github.com/pyxudev/basketball_games_in_Tokyo)<br>
 A basketball games search platform, it helps you to search and reserve to join basketball games hold in Tokyo, Chiba, Saitama.
 
