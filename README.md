@@ -18,6 +18,9 @@ URL: https://arearehelper.vercel.app/
 - [バスケやろうぜ](https://github.com/pyxudev/basketball_games_in_Tokyo)<br>
 A basketball games search platform, it helps you to search and reserve to join basketball games hold in Tokyo, Chiba, Saitama.
 
+- [テクサポテンプレート](https://github.com/pyxudev/supportTemplate)<br>
+It helps technical support engineers to make support works faster
+
 - [先攻はいただいたぜ！](https://github.com/pyxudev/Yugio.github.io)<br>
 A simple HTML/JS based app to decide who will go first between users face to face.
 
@@ -111,8 +114,6 @@ Still collecting new ideas for more features.
 It's a batch file to automatically create environment for diffuserson Windows.<br>
 It could be outdated since it's using diffusers0.8.0.
 
-- [support-memo-templates](https://github.com/pyxudev/support-memo-templates)<br>
-A support memo template to speed up technical support process.
 ---
 </details>
 
