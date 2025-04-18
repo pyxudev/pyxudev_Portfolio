@@ -16,14 +16,16 @@ A Web app which can help to recall the word you when you foget the term and get 
 URL: https://arearehelper.vercel.app/
 
 - [バスケやろうぜ](https://github.com/pyxudev/basketball_games_in_Tokyo)<br>
-A basketball games search platform, it helps you to search and reserve to join basketball games hold in Tokyo, Chiba, Saitama.
+A basketball games search platform, it helps you to search and reserve to join basketball games hold in Tokyo, Chiba, Saitama.<br>
+URL: https://letsplaybasketball.vercel.app/
 
 - [テクサポテンプレート](https://github.com/pyxudev/supportTemplate)<br>
 It helps technical support engineers to make support works faster<br>
 URL: https://techsuptemplate.vercel.app/
 
 - [先攻はいただいたぜ！](https://github.com/pyxudev/Yugio.github.io)<br>
-A simple HTML/JS based app to decide who will go first between users face to face.
+A simple HTML/JS based app to decide who will go first between users face to face.<br>
+URL: https://pyxudev.github.io/Yugio.github.io/
 
 - [Todo](https://github.com/pyxudev/react_todo)<br>
 It's a simple learning project to build a todo application on React.js.
