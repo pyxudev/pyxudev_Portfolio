@@ -43,7 +43,7 @@ You are welcome to join any of my project or raise an issue or any discussion!
   A simple HTML/JS based app to decide who will go first between users face to face.<br>
   URL: https://pyxudev.github.io/Yugio.github.io/
   
-  - [Bilibili Comemnt Logger](https://github.com/pyxudev/bilibili_comment_scraper)<br>
+  - [Bilibili Comment Logger](https://github.com/pyxudev/bilibili_comment_scraper)<br>
   It's a selenium scraper to scrape comments from bilibili in a headless environment.
   Since they shut bilibili API down and changing their encrypt policy frequently.
   ---
