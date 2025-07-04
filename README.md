@@ -1,5 +1,5 @@
 # My Portfolio as a develoepr
-Hi, thank you for checking my protfolio.<br>
+Hi, thank you for reaching out to my protfolio.<br>
 My name is Justin Xu, a full-stack engineer.<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=pyxudev&show_icons=true&locale=en&layout=compact)<br>
 ![](https://skillicons.dev/icons?i=md,html,css,js,ts,python,php,perl,arduino,bash)<br>
