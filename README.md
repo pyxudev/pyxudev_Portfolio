@@ -35,7 +35,7 @@ You are welcome to join any of my project or raise an issue or any discussion!
   </summary>
 
   - [アレアレHelper](https://github.com/pyxudev/arearehelper)<br>
-  A Web app which can help to recall the word you when you foget the term and get tongue-tied.<br>
+  A Web app which can helps to recall the word for you when you foget the term and get tongue-tied.<br>
   URL: https://arearehelper.vercel.app/
 
   - [バスケやろうぜ](https://github.com/pyxudev/basketball_games_in_Tokyo)<br>
